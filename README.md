@@ -1,1 +1,1 @@
-# get-movie_project
+Visit [the site](https://movie-app-1-cqx2wkokv-thatsergey.vercel.app
